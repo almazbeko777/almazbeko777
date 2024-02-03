@@ -12,7 +12,7 @@
 
 - :seedling: Являюсь старшим студентом Университет КМУ 
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Motion WEB.
+- :zap: Являюсь студентом на курсе Веб-разработки Motion WEB.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/almazbekoff)
 
